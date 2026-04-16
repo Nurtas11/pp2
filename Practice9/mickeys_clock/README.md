@@ -1,0 +1,1 @@
+MICKEY MOUSE clock with hands as clock pointer
