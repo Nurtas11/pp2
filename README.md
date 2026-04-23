@@ -7,3 +7,4 @@ added practice6
 added practice 7
 added practice8
 added practice9(pygame) 16.04.26
+added practice 10 (paint snake racer)
